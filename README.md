@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
 # **Start Web Server**
 ```
-$ docker run -p 192.168.0.103:5000 <container-name>
+$ docker run -p 0.0.0.0:5000 <container-name>
 ```
 # **Test**
 ### *Open a browser and go to URL*
